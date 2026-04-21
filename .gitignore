@@ -1,0 +1,18 @@
+# Ignore intermediate data and outputs
+data/
+outputs/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore generated CSV and JSON files
+*.csv
+*.json
+
+# Ignore VS Code workspace settings (optional but recommended)
+.vscode/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
